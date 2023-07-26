@@ -36,6 +36,7 @@ Price:
 HOW TO BUY?
 
 . BSC address: 0x655be172b28460CCEBb5411367a28daE150163C8
+
 . email: WarWeb@proton.me
 
 1- Send the bnb to the address, take the link of the transaction and send it to my email .
